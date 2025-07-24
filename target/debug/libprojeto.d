@@ -1,0 +1,1 @@
+/workspaces/estudo_de_caso_rust/projeto/target/debug/libprojeto.rlib: /workspaces/estudo_de_caso_rust/projeto/src/index.rs /workspaces/estudo_de_caso_rust/projeto/src/lib.rs /workspaces/estudo_de_caso_rust/projeto/src/preprocessing.rs /workspaces/estudo_de_caso_rust/projeto/src/recommendation.rs /workspaces/estudo_de_caso_rust/projeto/src/search.rs
